@@ -48,7 +48,7 @@ unsigned int set_bit(unsigned int n, unsigned int i, unsigned int v)
 
 int main()
 {
-	unsigned int n = 0;
+	unsigned int n = 8;
 	unsigned int i, v, rv;
 
 	print_bit(n);
