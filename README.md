@@ -1,1 +1,2 @@
-# cprog19
+gcc -o game game.c
+./game
