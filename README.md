@@ -1,2 +1,2 @@
-gcc -o game game.c \n
+gcc -o game game.c
 ./game
